@@ -1,0 +1,33 @@
+main{
+    margin: 25px auto;
+    padding: 25px;
+}
+/* Flexbox layout css starts here */
+.container{
+    height: 250px;
+    background-color: azure;
+    border: 2px solid forestgreen;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    border: 2px solid violet;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px 0px deeppink;
+    color: gray;
+
+
+    
+}
