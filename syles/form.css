@@ -1,0 +1,40 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px auto;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    border: 1px solid darkturquoise;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: ghostwhite;
+}
+.form-parent{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid lavender;
+    border-radius: 10px;
+    padding: 10px;
+    padding-bottom: 15px;
+    margin: 10px;
+    background-color: honeydew;
+
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 50%;
+
+}
+.login-form input{
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding:5px;
+    padding-left: 15px;
+    
+}
