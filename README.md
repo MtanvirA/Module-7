@@ -6,7 +6,7 @@
     <li>Layout</li>
     <li>Flexbox Layout</li>
     <li>Form and it's styling</li>
-    <li></li>
+    <li>Grid Layout & Shaping</li>
     <li></li>
     <li></li>
     <li></li>
