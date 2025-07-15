@@ -9,5 +9,5 @@
     <li>Grid Layout & Shaping</li>
     <li>Calendar Using flex and grid layout</li>
     <li>Road to responsive: @media screen and (max-width:)</li>
-    <li></li>
+    <li>Website ready for Large, medium and small size devices</li>
 </ul>
