@@ -8,6 +8,6 @@
     <li>Form and it's styling</li>
     <li>Grid Layout & Shaping</li>
     <li>Calendar Using flex and grid layout</li>
-    <li></li>
+    <li>Road to responsive: @media screen and (max-width:)</li>
     <li></li>
 </ul>
